@@ -53,7 +53,6 @@ public class Triangle {
 
 
 
-
     public Triangle() {
         // initialize vertex byte buffer for shape coordinates
         ByteBuffer bb = ByteBuffer.allocateDirect(
